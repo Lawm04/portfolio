@@ -6,7 +6,10 @@ export default function Navbar(){
             <h1 className="font-bold text-xl">Yex Lawm</h1>
 
             <div className="flex gap-6">
-                <link rel="stylesheet" href="" />
+                <link href="/">Home</link>
+                <link href="/about">About</link>
+                <link href="/projects">Projects</link>
+                <link href="/contact">Contact</link>
             </div>
         </nav>
     )
