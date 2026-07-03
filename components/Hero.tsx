@@ -5,7 +5,7 @@ export default function Hero() {
                 Hi, I'm Yex Lawm
             </h1>
             <p className="text-xl mb-8">
-                Next.js Developer
+                Next.js Developer & Language Interpreter
             </p>
 
             <div className="flex justify-center gap-4">
